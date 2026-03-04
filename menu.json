@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "title": "Transfer",
+            "icon": "send"
+        },
+        {
+            "title": "Payment",
+            "icon": "receipt"
+        },
+        {
+            "title": "Investment",
+            "icon": "show_chart"
+        },
+        {
+            "title": "Lifestyle",
+            "icon": "shopping_bag"
+        },
+        {
+            "title": "e-Statement",
+            "icon": "description"
+        },
+        {
+            "title": "Flazz",
+            "icon": "credit_card"
+        },
+        {
+            "title": "Cardless",
+            "icon": "phone_android"
+        },
+        {
+            "title": "Products",
+            "icon": "account_balance"
+        },
+        {
+            "title": "Protection",
+            "icon": "shield"
+        }
+    ]
+}
