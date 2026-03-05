@@ -2,22 +2,23 @@
     "menus": [
         {
             "title": "Sipad",
-            "icon": "send",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/radio.png",
             "enabled": true,
             "isApp": false
         },
         {
             "title": "CCTV",
-            "icon": "receipt",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/cctv.png",
             "enabled": true,
             "isApp": true
         },
         {
             "title": "Merapi FM",
-            "icon": "radio",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/radio.png",
             "enabled": true,
             "isApp": true
         }
     ]
 
 }
+
