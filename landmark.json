@@ -6,7 +6,7 @@
       "id": 1,
       "name": "Patung Sapi Boyolali",
       "category": "Landmark",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Patung_Sapi_Boyolali.jpg",
+      "image": "https://picsum.photos/600/400?random=0",
       "location": "Boyolali Kota",
       "description": "Ikon kota Boyolali yang melambangkan daerah penghasil susu sapi."
     },
@@ -84,3 +84,4 @@
     }
   ]
 }
+
