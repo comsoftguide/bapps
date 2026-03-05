@@ -1,0 +1,86 @@
+{
+  "city": "Boyolali",
+  "province": "Jawa Tengah",
+  "landmarks": [
+    {
+      "id": 1,
+      "name": "Patung Sapi Boyolali",
+      "category": "Landmark",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Patung_Sapi_Boyolali.jpg",
+      "location": "Boyolali Kota",
+      "description": "Ikon kota Boyolali yang melambangkan daerah penghasil susu sapi."
+    },
+    {
+      "id": 2,
+      "name": "Alun-Alun Kidul Boyolali",
+      "category": "City Park",
+      "image": "https://picsum.photos/600/400?random=1",
+      "location": "Boyolali Kota",
+      "description": "Ruang publik populer dengan taman, kuliner, dan area rekreasi."
+    },
+    {
+      "id": 3,
+      "name": "Kebun Raya Indrokilo",
+      "category": "Nature",
+      "image": "https://picsum.photos/600/400?random=2",
+      "location": "Mojosongo",
+      "description": "Kebun raya modern dengan berbagai koleksi tanaman dan taman tematik."
+    },
+    {
+      "id": 4,
+      "name": "New Selo",
+      "category": "Viewpoint",
+      "image": "https://picsum.photos/600/400?random=3",
+      "location": "Selo",
+      "description": "Viewpoint terkenal di antara Gunung Merapi dan Gunung Merbabu."
+    },
+    {
+      "id": 5,
+      "name": "Bukit Gancik",
+      "category": "Mountain View",
+      "image": "https://picsum.photos/600/400?random=4",
+      "location": "Selo",
+      "description": "Spot gardu pandang dengan panorama pegunungan dan lautan awan."
+    },
+    {
+      "id": 6,
+      "name": "Embung Manajar",
+      "category": "Nature",
+      "image": "https://picsum.photos/600/400?random=5",
+      "location": "Selo",
+      "description": "Embung dengan pemandangan Gunung Merapi yang indah."
+    },
+    {
+      "id": 7,
+      "name": "Umbul Pengging",
+      "category": "Water Tourism",
+      "image": "https://picsum.photos/600/400?random=6",
+      "location": "Banyudono",
+      "description": "Pemandian alami dari mata air yang sudah ada sejak zaman kerajaan."
+    },
+    {
+      "id": 8,
+      "name": "Waduk Cengklik",
+      "category": "Lake",
+      "image": "https://picsum.photos/600/400?random=7",
+      "location": "Ngemplak",
+      "description": "Waduk dengan panorama Gunung Merapi yang populer untuk rekreasi."
+    },
+    {
+      "id": 9,
+      "name": "Agrowisata Sapi Perah Cepogo",
+      "category": "Edu Tourism",
+      "image": "https://picsum.photos/600/400?random=8",
+      "location": "Cepogo",
+      "description": "Wisata edukasi peternakan sapi perah dan produksi susu."
+    },
+    {
+      "id": 10,
+      "name": "Gunung Merbabu via Selo",
+      "category": "Hiking",
+      "image": "https://picsum.photos/600/400?random=9",
+      "location": "Selo",
+      "description": "Jalur pendakian populer menuju puncak Gunung Merbabu."
+    }
+  ]
+}
