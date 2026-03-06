@@ -1,8 +1,8 @@
 {
 "cctv":[
   {
-    "id": 11",
-    "id_kecamatan": 16",
+    "id": 11,
+    "id_kecamatan": 16,
     "device": "CCTV Patung Sukarno Cam 1"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/mp4/fQqDdrj4Xd/loeP89j0Fj/s.mp4",
     "latitude": -7.538466434896876",
@@ -10,8 +10,8 @@
     "isactive": 0
   },
   {
-    "id": 13",
-    "id_kecamatan": 16",
+    "id": 13,
+    "id_kecamatan": 16,
     "device": "CCTV Tugu Berlian "",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/fXDSWcfPTf/s.m3u8",
     "latitude": -7.5387645781631125",
@@ -19,8 +19,8 @@
     "isactive": 1
   },
   {
-    "id": 14",
-    "id_kecamatan": 15",
+    "id": 14,
+    "id_kecamatan": 15,
     "device": "CCTV Susu Tumpah"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/to5kmbDt2p/s.m3u8",
     "latitude": -7.534392537543527",
@@ -28,8 +28,8 @@
     "isactive": 0
   },
   {
-    "id": 15",
-    "id_kecamatan": 15",
+    "id": 15,
+    "id_kecamatan": 15,
     "device": "CCTV Simpang Lima Cam 1"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/mp4/fQqDdrj4Xd/aMFJCACtr2/s.mp4",
     "latitude": -7.5326961423236405",
@@ -37,8 +37,8 @@
     "isactive": 0
   },
   {
-    "id": 16",
-    "id_kecamatan": 15",
+    "id": 16,
+    "id_kecamatan": 15,
     "device": "CCTV Terminal Lama PTZ"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/KVLvaPeCHI/s.m3u8",
     "latitude": -7.517229911276175",
@@ -46,8 +46,8 @@
     "isactive": 1
   },
   {
-    "id": 17",
-    "id_kecamatan": 16",
+    "id": 17,
+    "id_kecamatan": 16,
     "device": "CCTV Patung Sudirman Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/KLa8MRC6ku/s.m3u8",
     "latitude": -7.541391188199202",
@@ -55,8 +55,8 @@
     "isactive": 1
   },
   {
-    "id": 18",
-    "id_kecamatan": 15",
+    "id": 18,
+    "id_kecamatan": 15,
     "device": "CCTV Museum Hamong Wardoyo"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/aL2D6CZIsP/s.m3u8",
     "latitude": -7.538322681241959",
@@ -64,8 +64,8 @@
     "isactive": 1
   },
   {
-    "id": 19",
-    "id_kecamatan": 15",
+    "id": 19,
+    "id_kecamatan": 15,
     "device": "CCTV Surowedanan PTZ"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/d2ymkYH2O4/s.m3u8",
     "latitude": -7.531329382235197",
@@ -73,8 +73,8 @@
     "isactive": 0
   },
   {
-    "id": 20",
-    "id_kecamatan": 19",
+    "id": 20,
+    "id_kecamatan": 19,
     "device": "CCTV Pertigaan Ngangkruk PTZ"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/JzaYIALZjG/s.m3u8",
     "latitude": -7.535110564006761",
@@ -82,8 +82,8 @@
     "isactive": 1
   },
   {
-    "id": 23",
-    "id_kecamatan": 16",
+    "id": 23,
+    "id_kecamatan": 16,
     "device": "CCTV Patung Sukarno Arah Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/LQbdBozmKl/s.m3u8",
     "latitude": -7.5384290423322655",
@@ -91,8 +91,8 @@
     "isactive": 1
   },
   {
-    "id": 27",
-    "id_kecamatan": 15",
+    "id": 27,
+    "id_kecamatan": 15,
     "device": "CCTV Tiga Menara"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/aMFJCACtr2/s.m3u8",
     "latitude": -7.51636729877043",
@@ -100,8 +100,8 @@
     "isactive": 1
   },
   {
-    "id": 28",
-    "id_kecamatan": 15",
+    "id": 28,
+    "id_kecamatan": 15,
     "device": "CCTV Simpang PTZ"",
     "url": "https://stream.boyolali.go.id/2b91b8bd9273de8b35b67c5c2ee49e64/mp4/fQqDdrj4Xd/jwILRSTdV7/s.mp4",
     "latitude": -7.532084557602976",
@@ -109,8 +109,8 @@
     "isactive": 0
   },
   {
-    "id": 30",
-    "id_kecamatan": 16",
+    "id": 30,
+    "id_kecamatan": 16,
     "device": "CCTV Satpol PP"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/mp4/fQqDdrj4Xd/1NSEm9EQAk/s.mp4",
     "latitude": -7.548495918111349",
@@ -118,8 +118,8 @@
     "isactive": 0
   },
   {
-    "id": 39",
-    "id_kecamatan": 15",
+    "id": 39,
+    "id_kecamatan": 15,
     "device": "CCTV Terminal Lama Selatan"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/XBBYJYNL91/s.m3u8",
     "latitude": -7.517395462692854",
@@ -127,8 +127,8 @@
     "isactive": 1
   },
   {
-    "id": 40",
-    "id_kecamatan": 15",
+    "id": 40,
+    "id_kecamatan": 15,
     "device": "CCTV Terminal Lama Cam 3"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/mp4/fQqDdrj4Xd/BZnaienIOP/s.mp4",
     "latitude": -7.517136272979143",
@@ -136,8 +136,8 @@
     "isactive": 0
   },
   {
-    "id": 44",
-    "id_kecamatan": 15",
+    "id": 44,
+    "id_kecamatan": 15,
     "device": "CCTV POJOK PLN"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/mp4/fQqDdrj4Xd/SAbdKxcCxe/s.mp4",
     "latitude": -7.531502780733989",
@@ -145,8 +145,8 @@
     "isactive": 0
   },
   {
-    "id": 45",
-    "id_kecamatan": 15",
+    "id": 45,
+    "id_kecamatan": 15,
     "device": "CCTV Gambiran Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/OWyVcuDcSu/s.m3u8",
     "latitude": -7.518934869092354",
@@ -154,8 +154,8 @@
     "isactive": 1
   },
   {
-    "id": 46",
-    "id_kecamatan": 15",
+    "id": 46,
+    "id_kecamatan": 15,
     "device": "CCTV Pasar Sunggingan 2"",
     "url": "https://stream.boyolali.go.id/1c365ddb19049a1375e15986b75f1674/mp4/fQqDdrj4Xd/l4v7CYgSFA/s.mp4",
     "latitude": -7.519026005551169",
@@ -163,8 +163,8 @@
     "isactive": 0
   },
   {
-    "id": 47",
-    "id_kecamatan": 15",
+    "id": 47,
+    "id_kecamatan": 15,
     "device": "CCTV Pasar Sunggingan PTZ"",
     "url": "https://stream.boyolali.go.id/1c365ddb19049a1375e15986b75f1674/mp4/fQqDdrj4Xd/3mbn9BNpo8/s.mp4",
     "latitude": -7.521028338151863",
@@ -172,8 +172,8 @@
     "isactive": 0
   },
   {
-    "id": 48",
-    "id_kecamatan": 19",
+    "id": 48,
+    "id_kecamatan": 19,
     "device": "CCTV BANGAK TIMUR"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/mp4/fQqDdrj4Xd/7XwJs3PiBv/s.mp4",
     "latitude": -7.540640915000622",
@@ -181,8 +181,8 @@
     "isactive": 1
   },
   {
-    "id": 50",
-    "id_kecamatan": 16",
+    "id": 50,
+    "id_kecamatan": 16,
     "device": "CCTV Simpang Solidaritas Timur (PTZ)"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/5CCsTVGqus/s.m3u8",
     "latitude": -7.532470155214132",
@@ -190,8 +190,8 @@
     "isactive": 1
   },
   {
-    "id": 51",
-    "id_kecamatan": 16",
+    "id": 51,
+    "id_kecamatan": 16,
     "device": "CCTV Simpang solidaritas Selatan"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/TcWdaZZBof/s.m3u8",
     "latitude": -7.532457923546146",
@@ -199,8 +199,8 @@
     "isactive": 1
   },
   {
-    "id": 52",
-    "id_kecamatan": 16",
+    "id": 52,
+    "id_kecamatan": 16,
     "device": "CCTV Simpang Solidaritas Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/4skaPPu0ae/s.m3u8",
     "latitude": -7.532463241632715",
@@ -208,8 +208,8 @@
     "isactive": 1
   },
   {
-    "id": 54",
-    "id_kecamatan": 16",
+    "id": 54,
+    "id_kecamatan": 16,
     "device": "CCTV Patung Sudirman"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/duaeKZcTrZ/s.m3u8",
     "latitude": -7.541288251327513",
@@ -217,8 +217,8 @@
     "isactive": 1
   },
   {
-    "id": 55",
-    "id_kecamatan": 16",
+    "id": 55,
+    "id_kecamatan": 16,
     "device": "CCTV Tugu Jagung"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/0Tb3lLxRdp/s.m3u8",
     "latitude": -7.542358235358234",
@@ -226,8 +226,8 @@
     "isactive": 1
   },
   {
-    "id": 57",
-    "id_kecamatan": 15",
+    "id": 57,
+    "id_kecamatan": 15,
     "device": "cctv Perempatan Smp 2"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/9F4va6YCbW/s.m3u8",
     "latitude": -7.538118700516014",
@@ -235,8 +235,8 @@
     "isactive": 1
   },
   {
-    "id": 58",
-    "id_kecamatan": 16",
+    "id": 58,
+    "id_kecamatan": 16,
     "device": "CCTV Pojok Setda"",
     "url": "https://103.137.37.171/ef0a710d21ed9648ad78abcf3a39d46b/mp4/fQqDdrj4Xd/Em6uVJVcAl/s.mp4",
     "latitude": -7.544264204371075",
@@ -244,8 +244,8 @@
     "isactive": 0
   },
   {
-    "id": 59",
-    "id_kecamatan": 16",
+    "id": 59,
+    "id_kecamatan": 16,
     "device": "CCTV Pojok setda Timur"",
     "url": "https://103.137.37.171/ef0a710d21ed9648ad78abcf3a39d46b/mp4/fQqDdrj4Xd/nDQ3dZ6YdM/s.mp4",
     "latitude": -7.544301430204025",
@@ -253,8 +253,8 @@
     "isactive": 0
   },
   {
-    "id": 62",
-    "id_kecamatan": 16",
+    "id": 62,
+    "id_kecamatan": 16,
     "device": "CCTV Sonolayu"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/QxpGBV42ST/s.m3u8",
     "latitude": -7.544455651645945",
@@ -262,8 +262,8 @@
     "isactive": 1
   },
   {
-    "id": 64",
-    "id_kecamatan": 15",
+    "id": 64,
+    "id_kecamatan": 15,
     "device": "CCTV Simpang Lodalang"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/EhMTu25S1B/s.m3u8",
     "latitude": -7.540256355024781",
@@ -271,8 +271,8 @@
     "isactive": 1
   },
   {
-    "id": 65",
-    "id_kecamatan": 15",
+    "id": 65,
+    "id_kecamatan": 15,
     "device": "CCTV Gambiran Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/l4v7CYgSFA/s.m3u8",
     "latitude": -7.519874586655119",
@@ -280,8 +280,8 @@
     "isactive": 1
   },
   {
-    "id": 66",
-    "id_kecamatan": 15",
+    "id": 66,
+    "id_kecamatan": 15,
     "device": "CCTV Simpang RSPA"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/GGAPsHWDcz/s.m3u8",
     "latitude": -7.535414260324632",
@@ -289,8 +289,8 @@
     "isactive": 1
   },
   {
-    "id": 67",
-    "id_kecamatan": 19",
+    "id": 67,
+    "id_kecamatan": 19,
     "device": "CCTV Ngangkruk Arah Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/6HxoaiPLt1/s.m3u8",
     "latitude": -7.535055621503211",
@@ -298,8 +298,8 @@
     "isactive": 1
   },
   {
-    "id": 69",
-    "id_kecamatan": 16",
+    "id": 69,
+    "id_kecamatan": 16,
     "device": "CCTV Simpang WIka Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/oUXO1HXbi3/s.m3u8",
     "latitude": -7.5375310103973066",
@@ -307,8 +307,8 @@
     "isactive": 1
   },
   {
-    "id": 70",
-    "id_kecamatan": 16",
+    "id": 70,
+    "id_kecamatan": 16,
     "device": "CCTV Simpang Driyan"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/zwJg89acRj/s.m3u8",
     "latitude": -7.5403792680043376",
@@ -316,8 +316,8 @@
     "isactive": 1
   },
   {
-    "id": 71",
-    "id_kecamatan": 16",
+    "id": 71,
+    "id_kecamatan": 16,
     "device": "CCTV Tugu Jagung Arah Selatan"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/g8XQZJ2B7F/s.m3u8",
     "latitude": -7.542585978952499",
@@ -325,8 +325,8 @@
     "isactive": 1
   },
   {
-    "id": 72",
-    "id_kecamatan": 16",
+    "id": 72,
+    "id_kecamatan": 16,
     "device": "CCTV SMA BK Arah Utara"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/8fsywTtt3o/s.m3u8",
     "latitude": -7.546415854594254",
@@ -334,8 +334,8 @@
     "isactive": 1
   },
   {
-    "id": 73",
-    "id_kecamatan": 16",
+    "id": 73,
+    "id_kecamatan": 16,
     "device": "CCTV SMA BK Arah Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/ChCnaGGcnU/s.m3u8",
     "latitude": -7.54642050780547",
@@ -343,8 +343,8 @@
     "isactive": 1
   },
   {
-    "id": 74",
-    "id_kecamatan": 16",
+    "id": 74,
+    "id_kecamatan": 16,
     "device": "CCTV Pojok Satpol PP"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/1NSEm9EQAk/s.m3u8",
     "latitude": -7.547760630553221",
@@ -352,8 +352,8 @@
     "isactive": 1
   },
   {
-    "id": 75",
-    "id_kecamatan": 19",
+    "id": 75,
+    "id_kecamatan": 19,
     "device": "CCTV Ngangkruk Arah Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/eSHLg8C7E8/s.m3u8",
     "latitude": -7.53487573682781",
@@ -361,8 +361,8 @@
     "isactive": 1
   },
   {
-    "id": 76",
-    "id_kecamatan": 15",
+    "id": 76,
+    "id_kecamatan": 15,
     "device": "CCTV Terminal Lama Arah Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/jX8ESfrRKV/s.m3u8",
     "latitude": -7.517226539755219",
@@ -370,8 +370,8 @@
     "isactive": 1
   },
   {
-    "id": 77",
-    "id_kecamatan": 16",
+    "id": 77,
+    "id_kecamatan": 16,
     "device": "CCTV SPBU Kemiri Arah Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/aRxyonmTzZ/s.m3u8",
     "latitude": -7.547768009177534",
@@ -379,8 +379,8 @@
     "isactive": 1
   },
   {
-    "id": 78",
-    "id_kecamatan": 16",
+    "id": 78,
+    "id_kecamatan": 16,
     "device": "CCTV SPBU Kemiri Arah Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/0VkyUHTR2O/s.m3u8",
     "latitude": -7.5477786450555655",
@@ -388,8 +388,8 @@
     "isactive": 1
   },
   {
-    "id": 80",
-    "id_kecamatan": 16",
+    "id": 80,
+    "id_kecamatan": 16,
     "device": "CCTV Patung Sukarno Arah barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/i0VckdNWEV/s.m3u8",
     "latitude": -7.538577449247431",
@@ -397,8 +397,8 @@
     "isactive": 1
   },
   {
-    "id": 85",
-    "id_kecamatan": 15",
+    "id": 85,
+    "id_kecamatan": 15,
     "device": "CCTV Pandan Alas Selatan"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/eZFlS3yZuW/s.m3u8",
     "latitude": -7.536305039631909",
@@ -406,8 +406,8 @@
     "isactive": 1
   },
   {
-    "id": 86",
-    "id_kecamatan": 15",
+    "id": 86,
+    "id_kecamatan": 15,
     "device": "CCTV Surowedanan Arah Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/shiJGV3nw1/s.m3u8",
     "latitude": -7.531329382235197",
@@ -415,8 +415,8 @@
     "isactive": 0
   },
   {
-    "id": 87",
-    "id_kecamatan": 17",
+    "id": 87,
+    "id_kecamatan": 17,
     "device": "CCTV Jalinan Teras timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/KKnp3oDUhy/s.m3u8",
     "latitude": -7.536245144768584",
@@ -424,8 +424,8 @@
     "isactive": 1
   },
   {
-    "id": 88",
-    "id_kecamatan": 19",
+    "id": 88,
+    "id_kecamatan": 19,
     "device": "CCTV Bangak Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/R2Lmwk7pcb/s.m3u8",
     "latitude": -7.542247942130899",
@@ -433,8 +433,8 @@
     "isactive": 1
   },
   {
-    "id": 90",
-    "id_kecamatan": 19",
+    "id": 90,
+    "id_kecamatan": 19,
     "device": "CCTV Ngangkruk Arah Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/mp4/fQqDdrj4Xd/eSHLg8C7E8/s.mp4",
     "latitude": -7.53487573682781",
@@ -442,8 +442,8 @@
     "isactive": 0
   },
   {
-    "id": 91",
-    "id_kecamatan": 19",
+    "id": 91,
+    "id_kecamatan": 19,
     "device": "CCTV BANGAK UTARA"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/eGVZSAFNKn/s.m3u8",
     "latitude": -7.53862577701018",
@@ -451,8 +451,8 @@
     "isactive": 1
   },
   {
-    "id": 92",
-    "id_kecamatan": 17",
+    "id": 92,
+    "id_kecamatan": 17,
     "device": "CCTV Jalinan teras Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/0kmNhQYlFv/s.m3u8",
     "latitude": -7.536092382841567",
@@ -460,8 +460,8 @@
     "isactive": 1
   },
   {
-    "id": 93",
-    "id_kecamatan": 16",
+    "id": 93,
+    "id_kecamatan": 16,
     "device": "CCTV Simpang Wika Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/o0BKVwMiDM/s.m3u8",
     "latitude": -7.537654699735337",
@@ -469,8 +469,8 @@
     "isactive": 1
   },
   {
-    "id": 94",
-    "id_kecamatan": 16",
+    "id": 94,
+    "id_kecamatan": 16,
     "device": "CCTV Simpang Wika Utara"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/ET3nP7jF63/s.m3u8",
     "latitude": -7.537768904960799",
@@ -478,8 +478,8 @@
     "isactive": 1
   },
   {
-    "id": 95",
-    "id_kecamatan": 26",
+    "id": 95,
+    "id_kecamatan": 26,
     "device": "CCTV Simpang Andong"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/hUVmmBzPfV/s.m3u8",
     "latitude": -7.3755459609506335",
@@ -487,8 +487,8 @@
     "isactive": 1
   },
   {
-    "id": 96",
-    "id_kecamatan": 25",
+    "id": 96,
+    "id_kecamatan": 25,
     "device": "CCTV Klego Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/AcBzvk0PZf/s.m3u8",
     "latitude": -7.356033644596886",
@@ -496,8 +496,8 @@
     "isactive": 1
   },
   {
-    "id": 97",
-    "id_kecamatan": 25",
+    "id": 97,
+    "id_kecamatan": 25,
     "device": "CCTV Klego Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/voLTLTRGyu/s.m3u8",
     "latitude": -7.355961289410664",
@@ -505,8 +505,8 @@
     "isactive": 1
   },
   {
-    "id": 98",
-    "id_kecamatan": 15",
+    "id": 98,
+    "id_kecamatan": 15,
     "device": "CCTV Terminal Penggung Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/CyvPcJkztn/s.m3u8",
     "latitude": -7.505891004011166",
@@ -514,8 +514,8 @@
     "isactive": 1
   },
   {
-    "id": 99",
-    "id_kecamatan": 15",
+    "id": 99,
+    "id_kecamatan": 15,
     "device": "CCTV Terminal Penggung Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/2Q7DUNhfEW/s.m3u8",
     "latitude": -7.506157724379419",
@@ -523,8 +523,8 @@
     "isactive": 1
   },
   {
-    "id": 100",
-    "id_kecamatan": 24",
+    "id": 100,
+    "id_kecamatan": 24,
     "device": "CCTV Karanggede"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/yoIudyhA3G/s.m3u8",
     "latitude": -7.360816539748547",
@@ -532,8 +532,8 @@
     "isactive": 1
   },
   {
-    "id": 101",
-    "id_kecamatan": 17",
+    "id": 101,
+    "id_kecamatan": 17,
     "device": "CCTV Randusari Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/s5mtmRnofR/s.m3u8",
     "latitude": -7.537054157036853",
@@ -541,8 +541,8 @@
     "isactive": 1
   },
   {
-    "id": 102",
-    "id_kecamatan": 17",
+    "id": 102,
+    "id_kecamatan": 17,
     "device": "CCTV Randusari Selatan"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/giV95agFkW/s.m3u8",
     "latitude": -7.537166722636671",
@@ -550,8 +550,8 @@
     "isactive": 1
   },
   {
-    "id": 103",
-    "id_kecamatan": 15",
+    "id": 103,
+    "id_kecamatan": 15,
     "device": "CCTV Pandan Alas Timur"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/Q7HGbfBQYn/s.m3u8",
     "latitude": -7.536475085196725",
@@ -559,8 +559,8 @@
     "isactive": 1
   },
   {
-    "id": 104",
-    "id_kecamatan": 15",
+    "id": 104,
+    "id_kecamatan": 15,
     "device": "CCTV Pandan Alas Utara"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/mizT2CuShk/s.m3u8",
     "latitude": -7.536550668379825",
@@ -568,8 +568,8 @@
     "isactive": 1
   },
   {
-    "id": 105",
-    "id_kecamatan": 23",
+    "id": 105,
+    "id_kecamatan": 23,
     "device": "CCTV SImpang Simo"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/DbtJa8J7rZ/s.m3u8",
     "latitude": -7.439028630371555",
@@ -577,8 +577,8 @@
     "isactive": 1
   },
   {
-    "id": 106",
-    "id_kecamatan": 15",
+    "id": 106,
+    "id_kecamatan": 15,
     "device": "CCTV Simpang Lima Arah Selatan"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/4SVKHpUYWM/s.m3u8",
     "latitude": -7.53219088695431",
@@ -586,8 +586,8 @@
     "isactive": 0
   },
   {
-    "id": 107",
-    "id_kecamatan": 11",
+    "id": 107,
+    "id_kecamatan": 11,
     "device": "CCTV SIMPANG SELO"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/NVIqwbqG4G/s.m3u8",
     "latitude": -7.501449009675548",
@@ -595,8 +595,8 @@
     "isactive": 1
   },
   {
-    "id": 108",
-    "id_kecamatan": 17",
+    "id": 108,
+    "id_kecamatan": 17,
     "device": "CCTV Randusari PTZ"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/Easho5W1HJ/s.m3u8",
     "latitude": -7.536952050001523",
@@ -604,8 +604,8 @@
     "isactive": 1
   },
   {
-    "id": 109",
-    "id_kecamatan": 16",
+    "id": 109,
+    "id_kecamatan": 16,
     "device": "CCTV Simpang Wika PTZ"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/Pth9LCuwhQ/s.m3u8",
     "latitude": -7.538058739241167",
@@ -613,8 +613,8 @@
     "isactive": 1
   },
   {
-    "id": 110",
-    "id_kecamatan": 15",
+    "id": 110,
+    "id_kecamatan": 15,
     "device": "CCTV Pojok PLN Barat"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/SAbdKxcCxe/s.m3u8",
     "latitude": -7.531550716528067",
@@ -622,8 +622,8 @@
     "isactive": 0
   },
   {
-    "id": 111",
-    "id_kecamatan": 16",
+    "id": 111,
+    "id_kecamatan": 16,
     "device": "CCTV Alun-Alun Kidul"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/OAzS0X4JWb/s.m3u8",
     "latitude": -7.546403889193742",
@@ -631,8 +631,8 @@
     "isactive": 1
   },
   {
-    "id": 112",
-    "id_kecamatan": 16",
+    "id": 112,
+    "id_kecamatan": 16,
     "device": "CCTV Patung Sukarno PTZ"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/Ls3Vn0A4LY/s.m3u8",
     "latitude": -7.538845279495494",
@@ -640,8 +640,8 @@
     "isactive": 1
   },
   {
-    "id": 113",
-    "id_kecamatan": 15",
+    "id": 113,
+    "id_kecamatan": 15,
     "device": "CCTV Pandan Alas Arah Perempatan"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/CdJOAAetyw/s.m3u8",
     "latitude": -7.536360746507657",
@@ -649,8 +649,8 @@
     "isactive": 1
   },
   {
-    "id": 114",
-    "id_kecamatan": 12",
+    "id": 114,
+    "id_kecamatan": 12,
     "device": "CCTV Ampel"",
     "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/to5kmbDt2p/s.m3u8",
     "latitude": -7.457668171187793",
