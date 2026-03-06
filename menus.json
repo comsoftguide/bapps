@@ -27,7 +27,15 @@
             "url":"",
             "enabled": true,
             "isApp": true
-        }
+        },
+        {
+            "title": "Aduan",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/aduan.png",
+            "url":"https://laporgub.jatengprov.go.id/",
+            "enabled": true,
+            "isApp": false
+        }        
     ]
 
 }
+
