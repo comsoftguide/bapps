@@ -3,30 +3,31 @@
         {
             "title": "Sipad",
             "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/sipad.png",
-            "enabled": true,
+            "url":"https://sipad.id/",
+            "enabled": true,            
             "isApp": false
         },
         {
             "title": "CCTV",
             "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/cctv.png",
+            "url":"",
             "enabled": true,
             "isApp": true
         },
         {
             "title": "Merapi FM",
             "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/radio.png",
+            "url":"",
             "enabled": true,
             "isApp": true
         },
         {
             "title": "Berita",
             "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/news.png",
+            "url":"",
             "enabled": true,
             "isApp": true
         }
     ]
 
 }
-
-
-
