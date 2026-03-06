@@ -2,7 +2,7 @@
     "menus": [
         {
             "title": "Sipad",
-            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/radio.png",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/sipad.png",
             "enabled": true,
             "isApp": false
         },
@@ -21,4 +21,5 @@
     ]
 
 }
+
 
