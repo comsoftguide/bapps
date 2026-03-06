@@ -17,9 +17,16 @@
             "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/radio.png",
             "enabled": true,
             "isApp": true
+        },
+        {
+            "title": "Berita",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/news.png",
+            "enabled": true,
+            "isApp": true
         }
     ]
 
 }
+
 
 
