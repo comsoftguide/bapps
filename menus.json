@@ -34,8 +34,16 @@
             "url":"https://laporgub.jatengprov.go.id/",
             "enabled": true,
             "isApp": false
+        },
+        {
+            "title": "OSS",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/oss.png",
+            "url":"https://oss.go.id/id",
+            "enabled": true,
+            "isApp": false
         }        
     ]
 
 }
+
 
