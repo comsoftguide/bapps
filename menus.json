@@ -47,7 +47,7 @@
             "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/layanan.png",
             "url":"",
             "enabled": true,
-            "isApp": false
+            "isApp": true
         } 
     ]
 
