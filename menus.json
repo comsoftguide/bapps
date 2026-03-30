@@ -41,7 +41,14 @@
             "url":"https://oss.go.id/id",
             "enabled": true,
             "isApp": false
-        }        
+        },
+        {
+            "title": "Layanan",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/layanan.png",
+            "url":"",
+            "enabled": true,
+            "isApp": false
+        } 
     ]
 
 }
