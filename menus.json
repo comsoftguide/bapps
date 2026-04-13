@@ -48,6 +48,13 @@
             "url":"",
             "enabled": true,
             "isApp": true
+        },
+        {
+            "title": "Komoditas",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/komoditas.png",
+            "url":"",
+            "enabled": true,
+            "isApp": true
         } 
     ]
 
