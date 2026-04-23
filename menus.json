@@ -55,7 +55,14 @@
             "url":"",
             "enabled": true,
             "isApp": true
-        } 
+        },
+        {
+            "title": "Lowongan",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/lowongan.png",
+            "url": "https://bursakerja.jatengprov.go.id/depan/lowongan",
+            "enabled": true,
+            "isApp": false
+        },
     ]
 
 }
