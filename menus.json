@@ -62,6 +62,13 @@
             "url": "https://bursakerja.jatengprov.go.id/depan/lowongan",
             "enabled": true,
             "isApp": false
+        },
+        {
+            "title": "Info Wisata",
+            "icon": "https://raw.githubusercontent.com/comsoftguide/bapps/refs/heads/main/assets/wisata.png",
+            "url": "https://wisata.boyolali.go.id",
+            "enabled": true,
+            "isApp": false
         }
     ]
 
